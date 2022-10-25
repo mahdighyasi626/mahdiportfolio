@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&display=swap');
+/* @import url('https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css'); */
+/* @import url('../src/assets/icons/css/iconsax-css/style.css'); */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Lato, 'sans-serif';
+}
+
+.btn {
+  @apply bg-yellow-10 border border-yellow-10 text-gray-800 block py-2.5 px-6 rounded-lg cursor-pointer hover:bg-blue-20 hover:text-slate-300 transition-all duration-300 hover:border hover:border-yellow-10;
+}
+
+.input {
+  @apply bg-blue-10 text-slate-50 block border border-gray-100 w-full px-4 py-3 rounded-lg outline-none hover:border-yellow-10 transition-all duration-300 focus:border-slate-50 text-sm;
+}
+
+.textarea {
+  @apply block p-2.5 w-full text-sm text-slate-50 bg-blue-10 rounded-lg border border-gray-100 outline-none hover:border-yellow-10 transition-all duration-300 focus:border-slate-50 resize-none;
+}
+
+.label {
+  @apply text-sm text-slate-50 mb-2 block;
+}
+
+.form-width {
+  @apply mx-auto flex-grow flex flex-col justify-center max-w-2xl bg-blue-20 p-10 rounded-lg drop-shadow-xl;
+}
+
+.form-header {
+  @apply text-xl font-semibold leading-tight pb-8 text-slate-50;
+}

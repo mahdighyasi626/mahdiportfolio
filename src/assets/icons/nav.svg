@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 253.14 287.6">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Roboto-Medium, Roboto;
+        font-size: 51.52px;
+        isolation: isolate;
+        letter-spacing: .02em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #c8952c;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(67.41 162.39)"><tspan x="0" y="0">MG</tspan></text>
+  <path class="cls-2" d="M38.37,143.8l22.3,8.6v10l-35.2-14.5v-8.3l35.2-14.4v9.9l-22.3,8.7Z"/>
+  <path class="cls-2" d="M214.77,143.8l-22.3,8.6v10l35.2-14.5v-8.3l-35.2-14.4v9.9l22.3,8.7Z"/>
+  <path class="cls-2" d="M159.97,162.4h-9.3l27.7-37.1h9.2l-27.6,37.1Z"/>
+</svg>
