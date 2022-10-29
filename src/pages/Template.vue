@@ -1,7 +1,6 @@
 <template>
   <div class="grid grid-cols-2">
     <div class="bg-">
-
     </div>
     <div class="col-span-2">
 
